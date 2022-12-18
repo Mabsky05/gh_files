@@ -27,11 +27,17 @@ Hyperbolic paraboloid formed by lofting straight lines.
 Sample for path mapper component. Not an original creation, but derived from demonstration 
 by (Handlebar3D) [https://www.youtube.com/watch?v=9TvVahUs3cQ].
 
+### parabola_project
+Challenge: C# component to create multiple parabolas, translate and loft.    
+
 ### split_wall
 Adjustable wall components in orthogonal pattern.  
 
 ## Log
 
-### 12/11/2022
+### 18/12/2022
+Added parabola_project.
+
+### 11/12/2022
 First upload.
 
