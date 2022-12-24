@@ -35,6 +35,9 @@ Adjustable wall components in orthogonal pattern.
 
 ## Log
 
+### 24/12/2022
+parabola_project updated and working beautifully. 
+
 ### 18/12/2022
 Added parabola_project.
 
