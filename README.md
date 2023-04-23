@@ -35,6 +35,9 @@ Adjustable wall components in orthogonal pattern.
 
 ## Log
 
+###
+solar_path rs and ds visualisation fixed!
+
 ### 09/04/2023
 solar_path gh ALT value fixed. Fixing ds and rs values. 
 
