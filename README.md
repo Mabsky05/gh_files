@@ -36,6 +36,10 @@ Adjustable wall components in orthogonal pattern.
 ## Log
 
 ###
+ENTIRE base equation FIXED. Important: Original source ref was wrong.
+Proper reference: Szokolay, Thermal Design of Buildings (1987).
+
+###
 solar_path rs and ds visualisation fixed!
 
 ### 09/04/2023
