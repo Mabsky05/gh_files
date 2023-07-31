@@ -35,6 +35,12 @@ Adjustable wall components in orthogonal pattern.
 
 ## Log
 
+### 01/08/2023
+IMPORTANT: Printed equations from reference are incorrect. Noting all corrected equations:
+
+rs = r x cosDEC / (sinLAT + sinDEC) => LAT replaced ALT
+rh = r * cosLAT * sinHRA => r is multiplied by LAT and HRA, not divided. 
+
 ###
 ENTIRE base equation FIXED. Important: Original source ref was wrong.
 Proper reference: Szokolay, Thermal Design of Buildings (1987).
