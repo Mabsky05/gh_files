@@ -35,6 +35,11 @@ Adjustable wall components in orthogonal pattern.
 
 ## Log
 
+### 25/09/2023
+IMPORTANT: Last log superseded. Corrections canceled. 
+solar_path gh nearly complete. All base equations working. 
+
+
 ### 01/08/2023
 IMPORTANT: Printed equations from reference are incorrect. Noting all corrected equations:
 
