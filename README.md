@@ -53,9 +53,10 @@ The sun and angles are modeled as follows:
 Fin extent: Draw lines to direction of overhang from points
 ![8](./References/viewcap8.jpg)
 
-Modelling: Extrude fins (from center) and overhang upwards
+9) Extrusion: Extrude fins (from center) and overhang upwards
 ![9](./References/viewcap9.jpg)
-Fin Scaling: Set a division parameter to scale fin distance/length while keeping proportions consistent. 
+
+10)  Scaling: Set a division parameter to scale fin distance/length while keeping proportions consistent. 
 ![10](./References/viewcap10.jpg)
 ![11](./References/viewcap11.jpg)
 
