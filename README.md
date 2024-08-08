@@ -3,6 +3,7 @@
 Each gh file is now individually uploaded, starting with this)
 
 ![main image](./References/title%20page.jpg)
+![overall](./References/overall.jpg)
 
 ## Summary
 Basic sunshade generator. 
@@ -11,7 +12,7 @@ Just simulating a sun path in 3D using curves, parameters on curves, and lines.
 
 ## Usage
 Open in Rhino 8, via Grasshopper in command line
-
+View >> remote control panel to view inputs. 
 
 ## Description of Procedure 
 Generates an overhang and vertical fins based on sun angles.
@@ -59,6 +60,16 @@ Fin extent: Draw lines to direction of overhang from points
 10)  Scaling: Set a division parameter to scale fin distance/length while keeping proportions consistent. 
 ![10](./References/viewcap10.jpg)
 ![11](./References/viewcap11.jpg)
+
+### Current limitations and space for improvement
+1) Day inputs are limited to days from solar equinox, or the 'zero' of the year. 
+In the future calendar days may be implemented.
+
+2) The program fails to render overhangs and fins after passing a certain latitude.
+This will need to be fixed later. 
+
+3) It is very likely to have possible options for optimising how geometries are generated. 
+Currently there seem to be too many components for executing simple tasks. 
 
 ## Log
 
